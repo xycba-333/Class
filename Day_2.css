@@ -1,0 +1,26 @@
+a:visited{
+    color: red;
+}
+a:hover{
+    color: magenta;
+}
+a:active{
+    color: yellow;
+}
+ol{
+    background-color: black;
+    color: white;
+    list-style: decimal-leading-zero;
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    color: white;
+}
+td{
+    border: 2px solid black;
+    padding: 10px;
+}
+tr:hover{
+    background-color: blue !important;
+}

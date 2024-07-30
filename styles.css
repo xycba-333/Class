@@ -1,0 +1,63 @@
+form{
+    background-color: rgba(222, 184, 135, 0.5);
+    width: fit-content;
+    margin: 60px auto;
+    box-shadow: 0px 0px 10px gray;
+    border-radius: 10px;
+    padding: 30px 20px;
+}
+label{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+input{
+    border-radius: 5px;
+}
+button{
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    padding: 9px 0;
+    background-color: rgb(20, 139, 236);
+    color: black;
+    font-weight: bold;
+    font-size: 20px; 
+}
+input[type='text'] {
+    padding: 10px 6px;
+    width: 300px;
+    border: 2px solid red;
+    outline: none;
+    padding: 10px 10px;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+input[type='email'] {
+    padding: 10px 6px;
+    border: 2px solid rgb(4, 7, 48);
+    padding: 10px 6px;
+    width: 300px;
+    outline: none;
+    padding: 10px 10px;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+input[type='password'] {
+    padding: 10px 6px;
+    width: 300px;
+    border: 2px solid rgb(33, 36, 250);
+    padding: 10px 6px;
+    width: 300px;
+    outline: none;
+    padding: 10px 10px;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+button:hover{
+    background-color: green;
+}
+input[type='checkbox'] {
+    accent-color: grey;
+    
+}
