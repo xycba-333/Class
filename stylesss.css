@@ -2,7 +2,7 @@ body {
     background-image: url("Cores\ luminosas\ em\ gradiente\ _\ Foto\ Premium.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px;
+    /* margin: 10px; */
     padding: 0px 20px 0px 20px;
 }
 
@@ -10,7 +10,9 @@ form {
     box-shadow: inset 0px 0px 20px 5px white;
     background: rgba(255, 255, 255, 0.1);
     width: 50%;
-    margin: 0px auto;
+    /* margin: 0px auto; */
+    margin-top: 100px;
+    margin-left: 300px;
     padding: 20px
 }
 
