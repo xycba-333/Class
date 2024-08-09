@@ -1,0 +1,67 @@
+.p1{
+    /* color:burlywood; */
+    color: green;
+}
+.p2{
+    color: blue;
+}
+.p3{
+    color: red;
+}
+.p4{
+    color: brown;
+}
+#head1{
+    background-color: aqua;
+}
+#head2{
+    background-color: blue;
+}
+#head3{
+    background-color: blueviolet;
+}
+.h1{
+    color: cadetblue;
+}
+.bg1{
+    background-color: burlywood;
+}
+.card{
+    background-color: white;
+    border-radius: 20px;
+    width: 300px;
+    box-shadow: 10px 10px 10px gray;
+    padding: 20px;
+    margin-left: 100px;
+    border: 1px solid gray;
+}
+.avatar{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid gray;
+}
+.avatar-cont{
+    margin: 0px auto;
+    width: fit-content;
+}
+.name{
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.folw-btn{
+    padding: 10px 20px;
+    border: none;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    width: 100%;
+    cursor: pointer;
+}
+.folw-btn:hover{
+    color: aqua;
+}
