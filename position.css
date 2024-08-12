@@ -1,0 +1,33 @@
+.container{
+    color: burlywood;
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    width: 200px;
+    height: 100px;
+}
+
+.p1{
+    position: relative;
+    left: 20px;
+    bottom: 40px;
+    top: 50px;
+    right: 200px;
+}
+
+.p2{
+    position: absolute;
+    top: 500px;
+    background-color: aqua;
+}
+
+.p3{
+    background-color: green;
+    position: sticky;
+    top: 20px;
+}
+
+.p4{
+    background-color: black;
+}
